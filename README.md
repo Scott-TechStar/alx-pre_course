@@ -1,6 +1,8 @@
 - 👋 Hi, I’m John Mwadime
 - 🌱 I’m currently learning software enginering @alx_africa
-- 📫 AlX Sofware Engineering program
+- 📫 AlX Sofware Engineering programme
+
+# ALX Software Engineering Programme
 
 <!---
 Scott-TechStar/alx-pre_course is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
